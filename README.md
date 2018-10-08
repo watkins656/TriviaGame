@@ -1,3 +1,3 @@
 # TriviaGame
 
-https://github.com/watkins656/TriviaGame
+https://watkins656.github.io/TriviaGame/
